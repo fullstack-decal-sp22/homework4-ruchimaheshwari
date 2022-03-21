@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework4-ruchimaheshwari/static/css/main.d7c36836.css",
+    "main.js": "/homework4-ruchimaheshwari/static/js/main.0dcd604f.js",
+    "index.html": "/homework4-ruchimaheshwari/index.html",
+    "main.d7c36836.css.map": "/homework4-ruchimaheshwari/static/css/main.d7c36836.css.map",
+    "main.0dcd604f.js.map": "/homework4-ruchimaheshwari/static/js/main.0dcd604f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c36836.css",
+    "static/js/main.0dcd604f.js"
+  ]
+}
